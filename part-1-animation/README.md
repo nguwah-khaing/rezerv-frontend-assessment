@@ -6,8 +6,8 @@ concepts instead of copying the reference site's branding or NFT artwork.
 
 ## Links
 
-- Live demo: _Add deployed Vercel/Netlify URL here_
-- Repository: _Add public GitHub repository URL here_
+- **Live Demo:** https://rezerv-frontend-assessment.vercel.app/
+- **GitHub Repository:** https://github.com/nguwah-khaing/rezerv-frontend-assessment/tree/main/part-1-animation
 
 ## Setup
 

@@ -2,6 +2,12 @@
 
 A from-scratch generic React + TypeScript data table styled with Tailwind CSS utilities and a small layer of custom CSS. **No table/grid library is used.** Mock data and delayed mock requests keep the project self-contained.
 
+## Links
+
+- **Live Demo:** https://rezerv-frontend-assessment-hpk4.vercel.app/
+- **GitHub Repository:** https://github.com/nguwah-khaing/rezerv-frontend-assessment/tree/main/part-2-data-table
+
+
 ## Run locally
 
 ```bash
